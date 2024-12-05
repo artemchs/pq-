@@ -1,0 +1,17 @@
+=== Decision Procedure Results ===
+
+→ "asdf": ✗
+→ "xp-qx-": ✗
+→ "-p-q--": ✓
+→ "--p-q---": ✓
+→ "--p--q----": ✓
+→ "--p---q-----": ✓
+→ "pq": ✗
+→ "pq-": ✗
+→ "---------------p-q-": ✗
+→ "pp": ✗
+→ "qq": ✗
+→ "-": ✗
+→ "-pq-": ✗
+
+Processed 13 strings.
